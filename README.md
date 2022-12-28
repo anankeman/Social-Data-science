@@ -2,7 +2,7 @@
 
 This is an attemp to apply some algebra concepts to cultural studies.
 
-This project uses the [Murdock Ethnographic Atlas Data set](https://d-place.org/contributions/EA) as a description of each cultures and turn to create a algebraic multi-dimensional space, where is culture is represented a as vector of all their political, economic, kinship, etc. to calculate similarity among cultures as teh cosine distance between vectors.
+This project uses the [Murdock Ethnographic Atlas Data set](https://d-place.org/contributions/EA) as a description of each cultures and turn to create a algebraic multi-dimensional space, where is culture is represented a as vector of all their political, economic, kinship, etc. features to calculate similarity among cultures as thh cosine distance between vectors.
 
 To see the whole analysis in detail, please click on [Full Cultural Algebra analysis](https://nbviewer.jupyter.org/github/anankeman/Cultural-Algebra/blob/master/cultural%20similarity.ipynb)
 
