@@ -20,7 +20,7 @@ To see the whole analysis in detail, please click on [Full Cultural Algebra anal
 - Use clustering algorithms to try to group ethnic groups
 - Compare cluster with family and geographical relations
 
-Sample of dimensional space and cluster strategies
+### Sample of dimensional space and cluster strategies
 
 ![Clusters](output.png)
 
